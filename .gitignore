@@ -1,0 +1,11 @@
+/data/elastic/_elastic.js
+/public/assets/0.7.7
+/public/assets
+.idea/*
+.DS_Store
+graphql/schema.graphql
+node_modules
+npm-debug.log
+/public/realty-advisers
+/public/img
+/public/cities
