@@ -1,6 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://deutschskype.com/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Skype lessons"
 theme = "hugo-creative-theme"
 
 [params]
@@ -28,10 +28,10 @@ theme = "hugo-creative-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "deutschskype.com"
 
 		[params.navigation.links]
-			about     = "About"
+			about     = "About us"
 			services  = "Services"
 			portfolio = "Portfolio"
 			contact   = "Contact"
